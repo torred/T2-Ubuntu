@@ -116,7 +116,7 @@ Follow [this guide](https://github.com/t2linux/T2-Debian-and-Ubuntu-Kernel?tab=r
 - VHCI+Sound driver (Apple T2): <https://github.com/MCMrARM/mbp2018-bridge-drv/>
 - hid-apple keyboard backlight patch: <https://github.com/MCMrARM/mbp2018-etc>
 - alsa/pulseaudio config files: <https://gist.github.com/MCMrARM/c357291e4e5c18894bea10665dcebffb>
-- TouchBar driver: <https://github.com/roadrunner2/macbook12-spi-driver/tree/mbp15>
+- TouchBar driver: <https://github.com/torred/macbook12-spi-driver/tree/mbp15>
 - Kernel patches (all are mentioned in github issue above): <https://github.com/aunali1/linux-mbp-arch>
 - ArchLinux kernel patches: <https://github.com/ppaulweber/linux-mba>
 - ArchLinux installation guide: <https://gist.github.com/TRPB/437f663b545d23cc8a2073253c774be3>
